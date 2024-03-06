@@ -9,3 +9,5 @@ Carbon Fields
 WooCommerce
 Woo Search
 Woo Align
+
+Garbage version
